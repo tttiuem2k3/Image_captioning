@@ -2,7 +2,10 @@
 
 > A deep-learning project that combines **Computer Vision** and **Natural Language Processing** to automatically generate natural-language captions for images.
 
-<p align="center">\n  <img src="./docs/images/readme_overview.svg" width="100%" alt="Image Captioning with CNN + RNN Models overview">\n</p>\n
+<p align="center">
+  <img src="./docs/images/readme_overview.svg" width="100%" alt="Image Captioning with CNN + RNN Models overview">
+</p>
+
 ---
 
 ## 📌 Introduction
